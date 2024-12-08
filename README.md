@@ -1,2 +1,2 @@
-# Adarsh-First-Project
+# Adarsh-First-Repository
 This is my first Repository
